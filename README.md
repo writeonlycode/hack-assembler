@@ -18,7 +18,7 @@ The entire implementation is done in just over 200 lines of code!
 cargo run -- path/to/filename.asm
 ```
 
-If `filename.asm` is a valid Hack program, a f`ilename.hack` file that can be
+If `filename.asm` is a valid program, a `filename.hack` file that can be
 executed by the Hack computer will be generated!
 
 # References
