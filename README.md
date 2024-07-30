@@ -1,3 +1,5 @@
+![](https://raw.githubusercontent.com/writeonlycode/hack-assembler/main/Screenshot%20from%202024-07-30%2012-34-28.png)
+
 An implementation of the Hack Assembler from the 'Nand to Tetris' course,
 written in Rust!
 
