@@ -1,14 +1,17 @@
+# Hack Assembler in Rust
+
 ![](https://raw.githubusercontent.com/writeonlycode/hack-assembler/main/Screenshot%20from%202024-07-30%2012-34-28.png)
 
-An implementation of the Hack Assembler from the 'Nand to Tetris' course,
-written in Rust!
+This project is an implementation of the Hack Assembler from the 'Nand to
+Tetris' course, written in Rust!
 
-The architecture of the assembler follows a fairly functional approach: mostly
+The architecture of the assembler follows a functional approach: mostly
 functions doing the heavy work, not relying on objects, and trying to use
-mostly immutable variables. But a few mutable references are used when it makes
-the everything easier.
+mostly immutable variables. However, a few mutable references are used when it
+makes everything easier.
 
-The whole thing is done in a little more than 200 lines!
+The entire implementation is done in just over 200 lines of code!
+
 
 # References
 
